@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: 'getsMaker | Ferramentas Gratuitas para o seu Dia a Dia',
   description:
     'O getsMaker reúne diversas ferramentas práticas e utilidades essenciais em um só lugar. Automatize tarefas cotidianas de forma rápida, inteligente e totalmente gratuita.',
+  other: {
+    'google-adsense-account': 'ca-pub-4468325584872069',
+  },
 };
 
 export default function RootLayout({
